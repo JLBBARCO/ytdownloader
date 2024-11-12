@@ -1,0 +1,3 @@
+1º Execute o TERMINAL DO WINDOWS como Administrador
+
+2º Cole o comando	winget install 9NRWMJP3717K
